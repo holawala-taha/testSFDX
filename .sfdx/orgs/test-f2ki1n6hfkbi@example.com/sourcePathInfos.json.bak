@@ -2,14 +2,14 @@
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523028178146,
             "changeTime": 1523028178146,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523028178147,
             "changeTime": 1523028178147,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,22 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1523448821877,
-            "changeTime": 1523448821877,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "modifiedTime": 1523373048270,
+            "changeTime": 1523373048270,
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
         }
     ],
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\aura",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523028178147,
             "changeTime": 1523028178147,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation",
         {
+            "state": "n",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523028303084,
             "changeTime": 1523028303084,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
-            "isMetadataFile": false,
-            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,183 +75,144 @@
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1523373048238,
             "changeTime": 1523373048238,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
         }
     ],
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1523373048248,
             "changeTime": 1523373048248,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
         }
     ],
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1523373048254,
             "changeTime": 1523373048254,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
         }
     ],
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1523373048263,
             "changeTime": 1523373048263,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
         }
     ],
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1523373048268,
             "changeTime": 1523373048268,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
         }
     ],
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1523373048271,
             "changeTime": 1523373048271,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
         }
     ],
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523373048237,
             "changeTime": 1523373048237,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
         }
     ],
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523373048236,
             "changeTime": 1523373048236,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
         }
     ],
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\objects",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523373048236,
             "changeTime": 1523373048236,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
         }
     ],
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\layouts",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523373048267,
             "changeTime": 1523373048267,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
         }
     ],
     [
         "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\permissionsets",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523373048270,
             "changeTime": 1523373048270,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\classes",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\classes",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1523448821896,
-            "changeTime": 1523448821896,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
-        }
-    ],
-    [
-        "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 292,
-            "modifiedTime": 1523448852025,
-            "changeTime": 1523448852025,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
-        }
-    ],
-    [
-        "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\t.holawala\\Desktop\\DX Test\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 195,
-            "modifiedTime": 1523448821896,
-            "changeTime": 1523448821896,
-            "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
         }
     ]
 ]
